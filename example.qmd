@@ -1,0 +1,6 @@
+---
+title: "example"
+format: html
+---
+
+Here is the result of the knitted file.
