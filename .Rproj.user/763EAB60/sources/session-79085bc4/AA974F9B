@@ -3,7 +3,7 @@
     "path": "~/ETC5513/Example-for-guide/example.qmd",
     "project_path": "example.qmd",
     "type": "quarto_markdown",
-    "hash": "2392053655",
+    "hash": "862748749",
     "contents": "",
     "dirty": false,
     "created": 1746595314062.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,29",
+        "cursorPosition": "7,46",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1746756461,
+    "lastKnownWriteTime": 1746757797,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1746756461067,
+    "last_content_update": 1746757797050,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -5,4 +5,4 @@ format: html
 
 Here is the result of the knitted file.
 
-This line was edited on main.
+This line includes changes from both branches.
